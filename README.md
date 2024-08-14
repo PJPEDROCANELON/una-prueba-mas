@@ -1,2 +1,1 @@
-# una-prueba-mas
-es una prueba de git 
+por los momentos vamos bien
